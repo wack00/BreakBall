@@ -10,7 +10,6 @@ namespace BreakBall
     {
         public PictureBox pb1 { get; set; }
         public Size golemina { get; set; }
-        //private Form1 f;
         public RectDolu() { }
         public RectDolu(Size g)
         {
